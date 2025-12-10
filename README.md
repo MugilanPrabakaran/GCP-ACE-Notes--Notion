@@ -35,9 +35,7 @@ Contributions are welcome. If you have improvements, additional notes, or better
 
 Please keep notes concise and reference official documentation when adding new content.
 
-## License
 
-This repository is provided as-is for study purposes. Add your preferred license if you want to allow reuse (e.g., MIT).
 
 ## Contact
 
